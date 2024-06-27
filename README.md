@@ -14,6 +14,8 @@
 
 ## 说明
 
+**仅启用 `开屏广告` 一类规则，其它所有规则均需手动打开，规则类别里可以批量开启某一类规则**
+
 **订阅链接：**
 
 - npmmirror源（国内）
@@ -37,6 +39,7 @@
 您可以使用 [GKD订阅模板](https://github.com/gkd-kit/subscription-template) 快速构建自己的订阅
 
 如何编写订阅/贡献此项目 -> [CONTRIBUTING.md](./CONTRIBUTING.md)
+
 
 ## 感谢以下项目
 
