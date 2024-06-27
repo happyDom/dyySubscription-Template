@@ -6,7 +6,7 @@ import globalGroups from './globalGroups';
 export default defineGkdSubscription({
   id: 233813,
   name: 'dyySubscription',
-  version: 0,
+  version: 1,
   author: 'dyy',
   checkUpdateUrl: './gkd.version.json5',
   supportUri: 'https://github.com/happyDom/dyySubscription',
