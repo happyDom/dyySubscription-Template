@@ -16,10 +16,10 @@
 
 **订阅链接：**
 
-- npmmirror源（国内）
+- jsdelivr源（国内）
 
 ```txt
-待补充
+https://fastly.jsdelivr.net/gh/username/yourSubscription@main/dist/gkd.json5
 ```
 
 - GitHub源
