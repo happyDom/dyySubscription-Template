@@ -25,7 +25,7 @@
 - GitHub源
 
 ```txt
-https://raw.githubusercontent.com/username/yourSubscription/main/dist/AIsouler_gkd.json5
+https://raw.githubusercontent.com/username/yourSubscription/main/dist/gkd.json5
 ```
 
 查看 [适配 APP 列表](./dist/README.md)
