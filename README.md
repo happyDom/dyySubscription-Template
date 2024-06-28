@@ -27,7 +27,7 @@
 - GitHub源
 
 ```txt
-待补充
+https://raw.githubusercontent.com/happyDom/dyySubscription/main/dist/AIsouler_gkd.json5
 ```
 
 查看 [适配 APP 列表](./dist/README.md)
@@ -44,6 +44,7 @@
 ## 感谢以下项目
 
 [gkd-kit/subscription](https://github.com/gkd-kit/subscription)
+[AIsouler/GKD_subscription](https://github.com/AIsouler/GKD_subscription)
 
 ## 感谢以下开发者的贡献
 
