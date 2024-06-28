@@ -24,7 +24,7 @@ apps.forEach((appConfig) => {
 });
 
 export default defineGkdSubscription({
-  id: 233813,
+  id: 233813, //一个数字，不与别人的规则订阅id冲突就行
   name: 'dyySubscription', //修改为你的规则订阅名称
   version: 0, //根据规则的发布，这个值需要做更新（增加），当GKD检测到此版本值较新时，会触发规则更新动作
   author: 'dyy', //规则编写者名称
