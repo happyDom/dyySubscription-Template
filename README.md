@@ -1,4 +1,4 @@
-# @happyDom/dyySubscription
+# @username/yourSubscription
 
 ---
 
@@ -6,15 +6,13 @@
 
 - **本项目仅供本人学习GKD规则之用，其他人的任何行为均与本人无关**
 
-- **本项目是基于订阅 [AIsouler/GKD_subscription](https://raw.githubusercontent.com/AIsouler/GKD_subscription/main/dist/AIsouler_gkd.json5)，结合本人使用过程中的个性化需求而做的一个补充规则。**
-
 - **本项目参考并使用了 [AIsouler/GKD_subscription](https://github.com/AIsouler/GKD_subscription) 的脚本和内容**
+
+- **本项目是基于订阅 [AIsouler/GKD_subscription](https://raw.githubusercontent.com/AIsouler/GKD_subscription/main/dist/AIsouler_gkd.json5)，结合本人使用过程中的个性化需求而做的一个补充规则。**
 
 ---
 
 ## 说明
-
-**仅启用 `开屏广告` 一类规则，其它所有规则均需手动打开，规则类别里可以批量开启某一类规则**
 
 **订阅链接：**
 
@@ -27,7 +25,7 @@
 - GitHub源
 
 ```txt
-https://raw.githubusercontent.com/happyDom/dyySubscription/main/dist/AIsouler_gkd.json5
+https://raw.githubusercontent.com/username/yourSubscription/main/dist/AIsouler_gkd.json5
 ```
 
 查看 [适配 APP 列表](./dist/README.md)
@@ -44,6 +42,7 @@ https://raw.githubusercontent.com/happyDom/dyySubscription/main/dist/AIsouler_gk
 ## 感谢以下项目
 
 [gkd-kit/subscription](https://github.com/gkd-kit/subscription)
+
 [AIsouler/GKD_subscription](https://github.com/AIsouler/GKD_subscription)
 
 ## 感谢以下开发者的贡献
