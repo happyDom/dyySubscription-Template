@@ -41,6 +41,8 @@ https://raw.githubusercontent.com/username/yourSubscription/main/dist/AIsouler_g
 
 ## 感谢以下项目
 
+[gkd-kit/subscription-template](https://github.com/gkd-kit/subscription-template/tree/main)
+
 [gkd-kit/subscription](https://github.com/gkd-kit/subscription)
 
 [AIsouler/GKD_subscription](https://github.com/AIsouler/GKD_subscription)
